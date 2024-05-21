@@ -1,0 +1,5 @@
+- **node/vertices**: cada elemento representado en el dom
+- **root**: el nodo donde el contenido html empieza, el document
+- **children**: hijos doctype y html son hijos del document
+- **parent**: el document es el padre de los nodos doctype y html
+- **siblings**: nodos hermanos, se encuentran en la misma jerarquia (html y doctype)

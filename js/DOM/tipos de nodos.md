@@ -1,0 +1,5 @@
+- **document**: nodo del cual se derivan los demás
+- **element**: se refiere a las etiquetas html
+- **text**: se refiere a todo el texto dentro de un nodo element
+- **attribute**: son los atributos de las etiquetas, aunque estos se ven como información asociada al nodo tipo element 
+- **comment**: comentarios y definición doctype 

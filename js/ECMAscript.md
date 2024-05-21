@@ -1,0 +1,1 @@
+Estándar que rige como debe ser interpretado y funcionar el lenguaje JavaScript, a fin de evitar la incompatibilidad entre navegadores

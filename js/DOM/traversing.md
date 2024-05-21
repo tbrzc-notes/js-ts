@@ -1,0 +1,1 @@
+"traversing" en JavaScript se refiere a recorrer y manipular la estructura del árbol HTML para acceder a elementos específicos
