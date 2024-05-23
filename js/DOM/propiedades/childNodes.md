@@ -1,0 +1,2 @@
+- Sobre los `childNodes` se puede usar la notación del corchete `[]` para acceder a elementos
+- Retorna una lista de nodos pero esta lista es un objeto vivo, siendo `childNodes` una excepción 

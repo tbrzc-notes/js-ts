@@ -11,4 +11,9 @@
 	- Traversing
 	- Tipos de nodos
 	- Tree terminology
+	- [jerarquia de clases](https://www.codeguage.com/static/images/content/js/dom-classes.png)
+	- DOMstring vs String
+	- nodeList
+	- node interface
+		- propiedades y metodos
 	

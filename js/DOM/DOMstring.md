@@ -1,0 +1,1 @@
+Con `DOMstring` se logra una cadena de texto interoperable en diferentes lenguajes, de esta manera, la API funciona exactamente igual independientemente de si se esta usando JS o Python para acceder y modificar al DOM
