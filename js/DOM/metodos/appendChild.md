@@ -1,0 +1,1 @@
+El nodo que le proporcionamos al método se agrega como el ultimo `child`(hijo) dentro de la instancia del elemento que llamamos

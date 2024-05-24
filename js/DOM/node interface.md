@@ -4,6 +4,17 @@ La interfaz 'node' es abstracta lo que significa que no puede ser instanciada pe
 [[nodelist]]
 - [[childNodes]] 
 - [[first-lastChilld]]
+- [[next-previusSibling]]
+- parentNode
+- nodeName
 ![[node interface-20240523164725746.webp]]
+## modificar elementos
+### añadir
+- [[appendChild]]()
 ![[node interface-20240523164850109.webp]]
+- nodeType y constantes de la interface `Node`
+```js
+var mainElement = document.getElementById('main')
+mainElement.childNodes[0].nodeType === Node.ELEMENT_NODE
+```
 ![[node interface-20240523165059266.webp]]

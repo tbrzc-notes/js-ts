@@ -16,4 +16,5 @@
 	- nodeList
 	- node interface
 		- propiedades y metodos
-	
+	- document interface
+		- document fragment

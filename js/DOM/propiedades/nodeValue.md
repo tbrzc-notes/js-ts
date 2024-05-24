@@ -1,0 +1,1 @@
+para nodos`text`y `comment` retorna el contenido, para nodos `element, document, document fragment` retorna `null` 
