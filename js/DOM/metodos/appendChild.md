@@ -1,1 +1,2 @@
 El nodo que le proporcionamos al método se agrega como el ultimo `child`(hijo) dentro de la instancia del elemento que llamamos
+- si el argumento dado a `appendChild()` es un nodo existente en el documento HTML, es eliminado de su posición y añadido a una nueva locación 

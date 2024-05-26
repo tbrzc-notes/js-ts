@@ -11,6 +11,12 @@ La interfaz 'node' es abstracta lo que significa que no puede ser instanciada pe
 ## modificar elementos
 ### añadir
 - [[appendChild]]()
+- [[insertBefore]]
+- [[cloneNode]]
+### remover
+- [[removeChild]]
+### replace 
+- `node.replaceChild(newNode, oldNode)`
 ![[node interface-20240523164850109.webp]]
 - nodeType y constantes de la interface `Node`
 ```js

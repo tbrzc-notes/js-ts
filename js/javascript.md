@@ -1,0 +1,3 @@
+- TC39 -> ECMAscript -> JS -> V8Egine
+- JITC: just in time compiler
+- object-oriented, procedural, functional (imperative by **default**)
