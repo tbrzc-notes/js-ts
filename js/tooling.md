@@ -1,4 +1,5 @@
 Linter: [oxc-project](https://oxc-project.github.io/)
+
 Vitejs
 ```bash
 pnpm create vite
