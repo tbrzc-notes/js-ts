@@ -5,10 +5,22 @@
 - [html-dom-introduction - codeguage](https://www.codeguage.com/courses/js/html-dom-introduction)
 - [CURSO DOM JavaScript MODERNO - AlexCG Design](https://youtu.be/NuG59Zw8wf4?si=PwwbHMVIdqnnClxw)
 ## Roadmap
-- [V8Engine](https://youtu.be/xckH5s3UuX4?si=IbI34pykt_WXzqnY)  [javascript engine - Gentleman Programming](https://youtu.be/JeyR30L_zmk?si=E9AEYhM28QqtoQU6)
-- javascript - TC39
+- Javascript
+	- Basics
+		- Escapar caracteres y comentar*
+		- `let` `const` `var`
+		- 'use strict'
+		- tipos de datos -> arrays
+		- wrapper types
+		- funciones
+		- objetos
+		- control flow
+	- TC39
+- [javascript engine - Gentleman Programming](https://youtu.be/JeyR30L_zmk?si=E9AEYhM28QqtoQU6)
+- [V8Engine](https://youtu.be/xckH5s3UuX4?si=IbI34pykt_WXzqnY)
 - ECMAscript
 - Tooling
+- Consola
 - DOM
 	- Definicion
 	- Traversing

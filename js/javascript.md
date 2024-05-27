@@ -1,3 +1,5 @@
 - TC39 -> ECMAscript -> JS -> V8Egine
 - JITC: just in time compiler
 - object-oriented, procedural, functional (imperative by **default**)
+- el javascript cargado en el navegador es `cached`
+- usar la etiqueta script e incluir archivos externos puede generar latencia, ademas que para ciertos documentos en los que se requiere poco codigo js es recomendable agregar el codigo directamente en la etiqueta script
