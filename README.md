@@ -1,9 +1,11 @@
+#roadmap
 # js
 ***Idioma***
 - 🇪🇸 Español
 ## Fuentes
 - [html-dom-introduction - codeguage](https://www.codeguage.com/courses/js/html-dom-introduction)
 - [CURSO DOM JavaScript MODERNO - AlexCG Design](https://youtu.be/NuG59Zw8wf4?si=PwwbHMVIdqnnClxw)
+- [JavaScript - jonmircha](https://youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&si=hjBmqpIkLySKaJQU) 
 ## Roadmap
 - Javascript
 	- Basics
@@ -33,3 +35,5 @@
 		- propiedades y metodos
 	- document interface
 		- document fragment
+	- element interface
+		- propiedades y metodos

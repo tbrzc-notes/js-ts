@@ -1,0 +1,1 @@
+`firstElementChild`devuelve un nodo elemento, mientras que [[first-lastChilld]] devuelve un nodo text

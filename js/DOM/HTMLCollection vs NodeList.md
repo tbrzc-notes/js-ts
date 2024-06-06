@@ -1,0 +1,3 @@
+- Los nodelist contienen cualquier tipo de nodo, de igual forma estos pueden ser iterados, **una vez obtenido un nodelist este no sea actualiza en base a los cambios en el html**, se le denomina objeto muerto
+- Los html collection si actualizan su contenido en base a nuevos elementos, objeto vivo, no se puede usar for each para iterar
+	- la ventaja de los objetos vivos es que se pueden guardar en una variable y eventualmente modificarlos y ver los cambios en realizados

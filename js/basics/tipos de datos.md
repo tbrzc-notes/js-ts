@@ -19,7 +19,15 @@ strBoxed = undefined;
 ```
 ## Object data types
 - Arrays
+
 - Las funciones son objetos también
+```js
+function greet() {
+    console.log("Hello, World!");
+}
+greet.language = "English";
+console.log(greet.language); // "English"
+```
 ## other
 - `object`: compuesto por primitivos, conocido también como `reference type`
 - `typeof` retorna un string `undefined` cuando no existe una variable, o cuando la variable no esta inicializada
