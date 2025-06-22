@@ -1,12 +1,12 @@
 #roadmap
-# js
+## Js
 ***Idioma***
 - 🇪🇸 Español
-## Fuentes
+### Fuentes
 - [html-dom-introduction - codeguage](https://www.codeguage.com/courses/js/html-dom-introduction)
 - [CURSO DOM JavaScript MODERNO - AlexCG Design](https://youtu.be/NuG59Zw8wf4?si=PwwbHMVIdqnnClxw)
 - [JavaScript - jonmircha](https://youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&si=hjBmqpIkLySKaJQU) 
-## Roadmap
+### Roadmap
 - Javascript
 	- Basics
 		- Escapar caracteres y comentar*
