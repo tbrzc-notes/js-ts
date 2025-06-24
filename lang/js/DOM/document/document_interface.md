@@ -1,6 +1,6 @@
 # `factory methods` para crear nodos
 - [[createElement]]()
-- [[document fragment]]
+- [[document_fragment]]
 - createTextNode() -> es mejor usar las propiedade`innerHTML` o `textContent`
 ## obtener elementos
 ```js

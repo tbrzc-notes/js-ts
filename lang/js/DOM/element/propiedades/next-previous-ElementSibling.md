@@ -1,1 +1,0 @@
-equivalente a [[next-previusSibling]] retorna el elemento o null en cuyo caso no lo haya encontrado

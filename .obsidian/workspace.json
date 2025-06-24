@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pomodoro.md",
+                "file": "lang/js/DOM/element/metodos/insertAdjacent.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "pomodoro"
+              "title": "insertAdjacent"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 427.5
   },
   "right": {
     "id": "cc8cd73a37e904e9",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "lang/js/DOM/element/metodos/insertAdjacent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for insertAdjacent"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/basics/funciones.md",
+                "file": "lang/js/DOM/element/metodos/insertAdjacent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from funciones"
+              "title": "Outgoing links from insertAdjacent"
             }
           },
           {
@@ -200,8 +200,17 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "811fe95a7e8742de",
+  "active": "8916cc2da573a410",
   "lastOpenFiles": [
+    "lang/js/DOM/element/propiedades/children.md",
+    "lang/js/DOM/Definicion.md",
+    "lang/js/DOM/DOMstring.md",
+    "lang/js/DOM/HTMLCollection_vs_NodeList.md",
+    "lang/js/DOM/tipos_de_nodos.md",
+    "lang/js/DOM/traversing.md",
+    "lang/js/DOM/Tree_terminology.md",
+    "lang/js/DOM/node/node_interface.md",
+    "pomodoro.md",
     "README.md",
     "lang",
     "to-study.md",
@@ -210,7 +219,6 @@
     "area/vuejs",
     "area/ts",
     "area",
-    "pomodoro.md",
     "resources/images/element interface-20240601211232787.webp",
     "templates/plantilla_nota.md",
     "templates",
@@ -219,11 +227,11 @@
     "resources/study-method.excalidraw",
     "resources",
     "lang/js/basics/funciones.md",
-    "lang/js/basics/tipos de datos.md",
+    "lang/js/basics/tipos_de_datos.md",
     "resources/excalidraw/Drawing 2024-06-06 18.37.30.excalidraw.md",
     "lang/js/basics/objetos.md",
-    "lang/js/basics/escape de caracteres.md",
-    "lang/js/basics/control flow.md",
+    "lang/js/basics/escape_de_caracteres.md",
+    "lang/js/basics/control_flow.md",
     "lang/js/basics/arrays.md",
     "lang/js/javascript.md",
     "lang/js/instanceof.md",

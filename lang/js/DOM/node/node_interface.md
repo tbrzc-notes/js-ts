@@ -3,8 +3,8 @@ La interfaz 'node' es abstracta lo que significa que no puede ser instanciada pe
 ## obtener elementos
 [[nodelist]]
 - [[childNodes]] 
-- [[first-lastChilld]]
-- [[next-previusSibling]]
+- [[first_lastChilld]]
+- [[next_previusSibling]]
 - parentNode
 - nodeName
 ![[node interface-20240523164725746.webp]]
