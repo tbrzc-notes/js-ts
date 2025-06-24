@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pomodoro.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "pomodoro"
             }
           }
         ]
@@ -202,9 +202,10 @@
   },
   "active": "811fe95a7e8742de",
   "lastOpenFiles": [
-    "to-study.md",
-    "js/tooling.md",
     "README.md",
+    "lang",
+    "to-study.md",
+    "lang/js/tooling.md",
     "Untitled.md",
     "area/vuejs",
     "area/ts",
@@ -217,18 +218,18 @@
     "resources/excalidraw",
     "resources/study-method.excalidraw",
     "resources",
-    "js/basics/funciones.md",
-    "js/basics/tipos de datos.md",
+    "lang/js/basics/funciones.md",
+    "lang/js/basics/tipos de datos.md",
     "resources/excalidraw/Drawing 2024-06-06 18.37.30.excalidraw.md",
-    "js/basics/objetos.md",
-    "js/basics/escape de caracteres.md",
-    "js/basics/control flow.md",
-    "js/basics/arrays.md",
-    "js/javascript.md",
-    "js/instanceof.md",
-    "js/ECMAscript.md",
-    "js/console.md",
-    "js/===.md",
+    "lang/js/basics/objetos.md",
+    "lang/js/basics/escape de caracteres.md",
+    "lang/js/basics/control flow.md",
+    "lang/js/basics/arrays.md",
+    "lang/js/javascript.md",
+    "lang/js/instanceof.md",
+    "lang/js/ECMAscript.md",
+    "lang/js/console.md",
+    "lang/js/===.md",
     "canvas/test.canvas",
     "resources/images/node interface-20240523164850109.webp",
     "resources/images/node interface-20240523164725746.webp",
