@@ -7,6 +7,19 @@
 - [CURSO DOM JavaScript MODERNO - AlexCG Design](https://youtu.be/NuG59Zw8wf4?si=PwwbHMVIdqnnClxw)
 - [JavaScript - jonmircha](https://youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&si=hjBmqpIkLySKaJQU) 
 ### Roadmap
+- conceptos WEB
+	- 
+- HTML
+	- base
+		- accesibilidad
+		- seo
+		- formularios y validaciones
+		- semantic-html
+- CSS
+	- base
+		- grid
+		- flexbox
+		- responsive-design
 - Javascript
 	- Basics
 		- Escapar caracteres y comentar*

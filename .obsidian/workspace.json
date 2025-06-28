@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lang/js/DOM/element/metodos/insertAdjacent.md",
+                "file": "area/html/Untitled.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "insertAdjacent"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "42b9286c3609ef24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "resources/escalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-28 10.01.39.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/basics/funciones.md",
+                "file": "resources/escalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of funciones"
+              "title": "Outline of Drawing 2025-06-28 10.01.39.excalidraw"
             }
           },
           {
@@ -180,6 +193,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6954eed0dd7e102d",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
         ],
         "currentTab": 6
@@ -202,6 +225,21 @@
   },
   "active": "8916cc2da573a410",
   "lastOpenFiles": [
+    "area/html/web.md",
+    "area/html/Untitled.md",
+    "resources/escalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md",
+    "resources/images/Pasted Image 20250628110942_892.png",
+    "resources/images/Pasted Image 20250628110234_826.png",
+    "resources/escalidraw",
+    "area/css/Untitled.md",
+    "README.md",
+    "area/html/bases.md",
+    "templates/plantilla_nota.md",
+    "pomodoro.md",
+    "to-study.md",
+    "lang/js/DOM/element/metodos/insertAdjacent.md",
+    "area/css",
+    "area/html",
     "lang/js/DOM/element/propiedades/children.md",
     "lang/js/DOM/Definicion.md",
     "lang/js/DOM/DOMstring.md",
@@ -210,34 +248,22 @@
     "lang/js/DOM/traversing.md",
     "lang/js/DOM/Tree_terminology.md",
     "lang/js/DOM/node/node_interface.md",
-    "pomodoro.md",
-    "README.md",
     "lang",
-    "to-study.md",
     "lang/js/tooling.md",
     "Untitled.md",
     "area/vuejs",
     "area/ts",
     "area",
     "resources/images/element interface-20240601211232787.webp",
-    "templates/plantilla_nota.md",
     "templates",
     "resources/images",
     "resources/excalidraw",
-    "resources/study-method.excalidraw",
-    "resources",
     "lang/js/basics/funciones.md",
     "lang/js/basics/tipos_de_datos.md",
     "resources/excalidraw/Drawing 2024-06-06 18.37.30.excalidraw.md",
     "lang/js/basics/objetos.md",
     "lang/js/basics/escape_de_caracteres.md",
     "lang/js/basics/control_flow.md",
-    "lang/js/basics/arrays.md",
-    "lang/js/javascript.md",
-    "lang/js/instanceof.md",
-    "lang/js/ECMAscript.md",
-    "lang/js/console.md",
-    "lang/js/===.md",
     "canvas/test.canvas",
     "resources/images/node interface-20240523164850109.webp",
     "resources/images/node interface-20240523164725746.webp",
