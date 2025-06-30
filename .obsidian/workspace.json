@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "lang/vitejs.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "vitejs"
             }
           }
         ],
@@ -227,10 +227,10 @@
   },
   "active": "42b9286c3609ef24",
   "lastOpenFiles": [
+    "README.md",
     "pomodoro.md",
     "lang/vitejs.md",
     "lang/bunjs.md",
-    "README.md",
     "resources/excalidraw/Drawing 2024-06-06 18.37.30.excalidraw.md",
     "resources/excalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md",
     "lang/js/ECMAscript.md",
