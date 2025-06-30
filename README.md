@@ -34,8 +34,15 @@
 - [javascript engine - Gentleman Programming](https://youtu.be/JeyR30L_zmk?si=E9AEYhM28QqtoQU6)
 - [V8Engine](https://youtu.be/xckH5s3UuX4?si=IbI34pykt_WXzqnY)
 - ECMAscript
+- palabras reservadas
 - Tooling
-- Consola
+	- bunjs
+	- navegador
+		- Consola
+- APIs del navegador
+- eventos
+- CSSOM
+
 - DOM
 	- Definicion
 	- Traversing
