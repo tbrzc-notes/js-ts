@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lang/vitejs.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "vitejs"
+              "title": "README"
             }
           }
         ],
@@ -227,12 +227,13 @@
   },
   "active": "42b9286c3609ef24",
   "lastOpenFiles": [
+    "lang/vitejs.md",
+    "lang/monetizacion_lincencias.md",
+    "resources/excalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md",
     "README.md",
     "pomodoro.md",
-    "lang/vitejs.md",
     "lang/bunjs.md",
     "resources/excalidraw/Drawing 2024-06-06 18.37.30.excalidraw.md",
-    "resources/excalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md",
     "lang/js/ECMAscript.md",
     "area/html/Untitled.md",
     "area/html/web.md",
@@ -265,7 +266,6 @@
     "resources/images",
     "resources/excalidraw",
     "lang/js/basics/funciones.md",
-    "lang/js/basics/tipos_de_datos.md",
     "canvas/test.canvas",
     "resources/images/node interface-20240523164850109.webp",
     "resources/images/node interface-20240523164725746.webp",

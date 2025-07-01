@@ -8,7 +8,7 @@
 - [JavaScript - jonmircha](https://youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&si=hjBmqpIkLySKaJQU) 
 ### Roadmap
 - conceptos WEB
-	- 
+- monetizacion y licencias
 - HTML
 	- base
 		- accesibilidad
@@ -37,12 +37,13 @@
 - palabras reservadas
 - Tooling
 	- bunjs
+	- memory-profiler
 	- navegador
 		- Consola
 - APIs del navegador
 - eventos
 - CSSOM
-
+- cookies
 - DOM
 	- Definicion
 	- Traversing

@@ -6,7 +6,7 @@ tags:
 ---
 
 
-Es un empaquetador para produccion y servidor local que usa rollup/esbuild
+Es un empaquetador que usa rollup/esbuild para produccion y servidor local 
 
 ---
 - [ ] summary  📅 2025-07-01
