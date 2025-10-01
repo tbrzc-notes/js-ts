@@ -4,22 +4,19 @@
 - 🇪🇸 Español
 ### Fuentes
 - [html-dom-introduction - codeguage](https://www.codeguage.com/courses/js/html-dom-introduction)
-- [CURSO DOM JavaScript MODERNO - AlexCG Design](https://youtu.be/NuG59Zw8wf4?si=PwwbHMVIdqnnClxw)
 - [JavaScript - jonmircha](https://youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&si=hjBmqpIkLySKaJQU) 
+- [javascript engine - Gentleman Programming](https://youtu.be/JeyR30L_zmk?si=E9AEYhM28QqtoQU6)
+- [V8Engine](https://youtu.be/xckH5s3UuX4?si=IbI34pykt_WXzqnY)
 ### Roadmap
-- conceptos WEB
-- monetizacion y licencias
 - HTML
-	- base
-		- accesibilidad
-		- seo
-		- formularios y validaciones
-		- semantic-html
+	- accesibilidad
+	- seo
+	- formularios y validaciones
+	- semantic-html
 - CSS
-	- base
-		- grid
-		- flexbox
-		- responsive-design
+	- grid
+	- flexbox
+	- responsive-design
 - Javascript
 	- Basics
 		- Escapar caracteres y comentar*
@@ -31,8 +28,7 @@
 		- objetos
 		- control flow
 	- TC39
-- [javascript engine - Gentleman Programming](https://youtu.be/JeyR30L_zmk?si=E9AEYhM28QqtoQU6)
-- [V8Engine](https://youtu.be/xckH5s3UuX4?si=IbI34pykt_WXzqnY)
+
 - ECMAscript
 - palabras reservadas
 - Tooling

@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lang/js/ECMAscript.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ECMAscript"
-            }
-          },
-          {
-            "id": "42b9286c3609ef24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +70,8 @@
             "state": {
               "type": "bookmarks",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
             }
           }
         ]
@@ -215,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -225,25 +211,34 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "42b9286c3609ef24",
+  "active": "811fe95a7e8742de",
   "lastOpenFiles": [
-    "lang/vitejs.md",
-    "lang/monetizacion_lincencias.md",
-    "resources/excalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md",
-    "README.md",
-    "pomodoro.md",
-    "lang/bunjs.md",
-    "resources/excalidraw/Drawing 2024-06-06 18.37.30.excalidraw.md",
-    "lang/js/ECMAscript.md",
-    "area/html/Untitled.md",
-    "area/html/web.md",
-    "resources/images/Pasted Image 20250628110942_892.png",
-    "resources/images/Pasted Image 20250628110234_826.png",
-    "resources/escalidraw",
-    "area/css/Untitled.md",
-    "area/html/bases.md",
-    "templates/plantilla_nota.md",
     "to-study.md",
+    "area/html/Untitled.md",
+    "area/css/Untitled.md",
+    "README.md",
+    "area/html/web.md",
+    "area/html/Drawing 2025-06-28 10.01.39.excalidraw.md",
+    "lang/monetizacion_lincencias.md",
+    "lang/js/bunjs.md",
+    "lang/ts",
+    "lang/js/vitejs.md",
+    "templates/plantilla_nota.md",
+    "resources/study-method.excalidraw",
+    "resources/images/Pasted Image 20250628110942_892.png",
+    "resources/images/node interface-20240523165059266.webp",
+    "resources/images/Pasted Image 20250628110234_826.png",
+    "resources/images/node interface-20240523164850109.webp",
+    "resources/images/node interface-20240523164725746.webp",
+    "resources/images/element interface-20240601211254152.webp",
+    "resources/images/element interface-20240601211232787.webp",
+    "resources/excalidraw/Drawing 2024-06-06 18.37.30.excalidraw.md",
+    "resources/excalidraw/Drawing 2025-06-28 10.01.39.excalidraw.md",
+    "pomodoro.md",
+    "lang/js/tooling.md",
+    "lang/js/ECMAscript.md",
+    "resources/escalidraw",
+    "area/html/bases.md",
     "lang/js/DOM/element/metodos/insertAdjacent.md",
     "area/css",
     "area/html",
@@ -256,19 +251,11 @@
     "lang/js/DOM/Tree_terminology.md",
     "lang/js/DOM/node/node_interface.md",
     "lang",
-    "lang/js/tooling.md",
     "Untitled.md",
     "area/vuejs",
     "area/ts",
     "area",
-    "resources/images/element interface-20240601211232787.webp",
     "templates",
-    "resources/images",
-    "resources/excalidraw",
-    "lang/js/basics/funciones.md",
-    "canvas/test.canvas",
-    "resources/images/node interface-20240523164850109.webp",
-    "resources/images/node interface-20240523164725746.webp",
-    "resources/images/element interface-20240601211254152.webp"
+    "canvas/test.canvas"
   ]
 }
