@@ -7,39 +7,28 @@
 - [JavaScript - jonmircha](https://youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&si=hjBmqpIkLySKaJQU) 
 - [javascript engine - Gentleman Programming](https://youtu.be/JeyR30L_zmk?si=E9AEYhM28QqtoQU6)
 - [V8Engine](https://youtu.be/xckH5s3UuX4?si=IbI34pykt_WXzqnY)
-### Roadmap
-- HTML
-	- accesibilidad
-	- seo
-	- formularios y validaciones
-	- semantic-html
-- CSS
-	- grid
-	- flexbox
-	- responsive-design
-- Javascript
-	- Basics
-		- Escapar caracteres y comentar*
-		- `let` `const` `var`
-		- 'use strict'
-		- tipos de datos -> arrays
-		- wrapper types
-		- funciones
-		- objetos
-		- control flow
-	- TC39
-
-- ECMAscript
+## Roadmap
+## HTML
+- accesibilidad
+- seo
+- formularios y validaciones
+- semantic-html
+## CSS
+- grid
+- flexbox
+- responsive-design
+## Javascript
 - palabras reservadas
-- Tooling
-	- bunjs
-	- memory-profiler
-	- navegador
-		- Consola
-- APIs del navegador
-- eventos
-- CSSOM
-- cookies
+- Escapar caracteres y comentar*
+- `let` `const` `var`
+- 'use strict'
+- tipos de datos -> arrays
+- wrapper types
+- funciones
+- objetos
+- control flow
+- TC39
+- ECMAscript
 - DOM
 	- Definicion
 	- Traversing
@@ -54,4 +43,15 @@
 		- document fragment
 	- element interface
 		- propiedades y metodos
-		- 
+-  APIs del navegador
+- eventos
+- CSSDOM
+- cookies
+
+
+## Tooling
+- bunjs
+- vitejs
+- memory-profiler
+- navegador
+	- Consola
