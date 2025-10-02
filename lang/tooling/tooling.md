@@ -1,8 +1,9 @@
 Linter: [oxc-project](https://oxc-project.github.io/)
-
+bunjs
+rolldown: empaquetador
 Vitejs
 ```bash
-pnpm create vite
-pnpm install
-pnpm run dev
+bun create vite
+bun install
+bun run dev
 ```
