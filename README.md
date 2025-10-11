@@ -19,17 +19,49 @@
 - flexbox
 - responsive-design
 ## Javascript
-- palabras reservadas
-- Escapar caracteres y comentar*
-- `let` `const` `var`
-- 'use strict'
-- tipos de datos -> arrays
-- wrapper types
-- funciones
-- objetos
-- control flow
+- [[caracteristicas.excalidraw]]
 - TC39
 - ECMAscript
+- [[carga]]
+- 'use strict'
+- `@ts-check`
+- noscript-tag
+- [[convenciones]]
+- [[tipos_de_datos]] 
+	- wrapper types
+- [[escape_de_caracteres]]
+- `let` `const` `var`
+	- [[scope]]
+- template string
+```js
+const nombre = "Javier";
+const edad = 35;
+const saludo = `Hola, mi nombre es ${nombre} y tengo ${edad} años.`;// se puede incrustar ademas de variables codigo tambien
+```
+- operador incremento
+```csharp
+let x = 5;
+console.log(x++); // Imprime 5, luego incrementa → x = 6
+console.log(++x); // Incrementa a 7, luego imprime → 7
+```
+- [[potencia]]
+- [[===]]
+- `NaN`: siempre que una conversion numerica falla se retorna un `NaN`
+```js
+//pertenece al tipo de dato number
+Number.isNaN(NaN);
+```
+- [[control_flow]]
+	- if-else
+	- [[operador_ternario]]
+	```js
+	msg = nota >=4 ? "Aprobado":"Reprobado";
+	```
+	- switch simple
+- [[loops_iteracion]]
+- contador/acumulador
+- funciones
+- objetos
 - DOM
 	- Definicion
 	- Traversing
@@ -47,10 +79,11 @@
 -  APIs del navegador
 - eventos
 - CSSDOM
-- cookies
+- palabras reservadas
 
 
 ## Tooling
 - memory-profiler
 - navegador
 	- Consola
+	- web-developer extension

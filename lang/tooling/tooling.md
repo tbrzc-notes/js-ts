@@ -1,4 +1,6 @@
 Linter: [oxc-project](https://oxc-project.github.io/)
+formatter
+jsdoc
 bunjs
 rolldown: empaquetador
 Vitejs
