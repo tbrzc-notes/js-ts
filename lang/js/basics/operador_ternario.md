@@ -14,6 +14,14 @@ lvl == 'admin' ? adminPanel() : userPanel();
 ```js
 alert(lvl == 'admin' ? 'Hola admin' : 'Hola user');
 ```
+
+
+## "aproach" interesante
+
+```php
+if($user->canDelete($post)) deletePost($post);
+```
+
 ---
 - [ ] summary  📅 2025-10-11
 - [ ] 3-day 
