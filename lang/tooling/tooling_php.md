@@ -6,12 +6,17 @@ tags:
 ---
 ## php
 web-server-prod: php-fpm nginx
+web-server-dev: php-tread-safe
+```php
+php -S localhost:8000
+```
 package-manager: composer
-php-runtime: > 8.x
+runtime: > 8.x
 coding-style: php-cs-fixer
 linter: php-cs-fixer, Psalm
 debugger: Xdebug
 typos: PHPdoc
+formatter: php-cs-fixer
 IDE-integrations:
 - php-intelephense
 - php-debug
@@ -20,10 +25,7 @@ IDE-integrations:
 - Psalm
 - PHP -> DEVSENSE
 
-```php
-cd C:\ruta\al\proyecto
-php -S localhost:8000
-```
+
 
 ## laravel
 
