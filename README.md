@@ -8,7 +8,10 @@
 - [javascript engine - Gentleman Programming](https://youtu.be/JeyR30L_zmk?si=E9AEYhM28QqtoQU6)
 - [V8Engine](https://youtu.be/xckH5s3UuX4?si=IbI34pykt_WXzqnY)
 - https://www.codeguage.com/v1/courses/html/introduction
-## Roadmap
+#### php
+- https://symfony.com/doc/current/create_framework/index.html
+- https://phptherightway.com/
+- https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
 ## HTML
 - accesibilidad
 - seo
@@ -81,9 +84,4 @@ Number.isNaN(NaN);
 - CSSDOM
 - palabras reservadas
 
-
-## Tooling
-- memory-profiler
-- navegador
-	- Consola
-	- web-developer extension
+## php

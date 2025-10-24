@@ -29,6 +29,14 @@ IDE-integrations:
 
 ## laravel
 
+## otros
+
+proxy: Burp Suite Community Edition
+cliente REST: cURL
+## librerias
+http-client: guzzle
+motor de plantillas: [lattte](https://latte.nette.org/es/#)
+
 ---
 - [ ] summary  📅 2025-10-24
 - [ ] 3-day 
