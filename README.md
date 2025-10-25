@@ -12,6 +12,8 @@
 - https://symfony.com/doc/current/create_framework/index.html
 - https://phptherightway.com/
 - https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
+- https://github.com/php-fig/fig-standards/tree/master/accepted
+- https://www.php.net/manual/es/book.spl.php
 ## HTML
 - accesibilidad
 - seo
