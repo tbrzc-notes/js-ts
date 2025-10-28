@@ -96,8 +96,10 @@ $variable = 0;
 	- [[concatenacion_y_interpolacion]]
 - [[constantes_y_variables]]
 - [[primitive_datatypes]]
+- modificadores de acceso
 - [[heredoc]]
 - expresiones
+	- operadores
 - instrucciones
 - estructuras, secuenciales, selectivas y repetitivas
 - interruptores
