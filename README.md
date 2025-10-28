@@ -87,3 +87,20 @@ Number.isNaN(NaN);
 - palabras reservadas
 
 ## php
+- [[palabras_reservadas.excalidraw]]
+- identificadores
+```php
+$variable = 0;
+```
+- [[caracteres_especiales]]
+	- [[concatenacion_y_interpolacion]]
+- [[constantes_y_variables]]
+- [[primitive_datatypes]]
+- [[heredoc]]
+- expresiones
+- instrucciones
+- estructuras, secuenciales, selectivas y repetitivas
+- interruptores
+- acumuladores 
+- contadores
+- [[pass_by_reference]]

@@ -8,7 +8,7 @@ tags:
 - ningun programa debe trabajar con valores invalidos
 - la validacion solo debe ser que la informacion recibida sea la esperada
 - si un dato es erroneo, cortar el proceso notificar el error y volver a solicitar el dato
-- 
+
 ## label
 - se recomienda no usarlo ya que es similar a un "go to"
 ## for in
