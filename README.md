@@ -102,7 +102,9 @@ $variable = 0;
 	- operadores
 - instrucciones
 - estructuras, secuenciales, selectivas y repetitivas
+	- switch vs match: match evalua condiciones estrictas `===` y solo espresiones no bloques
 - interruptores
 - acumuladores 
 - contadores
 - [[pass_by_reference]]
+- [[include_require]]
