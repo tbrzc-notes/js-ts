@@ -6,7 +6,13 @@ tags:
 ---
 
 - es preferible usar `require_once()` sobre include, para importar funciones
-- require en caso de fallar retorna false y 1 en caso de ser exitoso, util para importar archivos opcionales
+- require() en caso de fallar retorna false y 1 en caso de ser exitoso, util para importar archivos opcionales
+
+- require() : archivos indispensables (configuracion, base de datos, librerias)
+- require_once(): archivos indispensables que no deben cargarse mas de una vez (definicion de clases, funciones constantes,)
+- include(): archivos opcionales(plantillas, fragmentos html)
+- include_once(): archivos opcionales que no deben duplicarse
+
 
 ## damnbrother
 

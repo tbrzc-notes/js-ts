@@ -96,15 +96,26 @@ $variable = 0;
 	- [[concatenacion_y_interpolacion]]
 - [[constantes_y_variables]]
 - [[primitive_datatypes]]
+- [[array]]
 - modificadores de acceso
 - [[heredoc]]
 - expresiones
-	- operadores
+	- [[operadores]]
+	- usar === siempre dentro de lo posible
 - instrucciones
 - estructuras, secuenciales, selectivas y repetitivas
-	- switch vs match: match evalua condiciones estrictas `===` y solo espresiones no bloques
+	- switch vs match: match evalua condiciones estrictas === y solo espresiones no bloques
+```php
+<?php if ($a == 5): ?>
+    <p>El valor es 5</p>
+<?php endif; ?>
+```
 - interruptores
 - acumuladores 
 - contadores
 - [[pass_by_reference]]
 - [[include_require]]
+
+
+
+
