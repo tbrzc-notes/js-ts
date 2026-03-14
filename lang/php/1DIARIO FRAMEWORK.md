@@ -6,14 +6,11 @@ tags:
 ---
 
 # 1 enrutador
-
-si tengo una vista de que manera la puedo mostrar mediante la url ejemplo
-vista home con varios partials incluidos, sea llamada al buscar la url /indexhome
-
+el enrutador se encarga de mostrar mediante la url una vista en particular, esto mediante el almacenaje en un array asociativo de cada ruta registrada, el flujo sigue en el controlador
 # controlador
+mediante el controlador se crean las funciones que una vez llamadas muestran la vista, antes de este se podria manejar un middleware para cosas como la authenticacion, se ejecutan las queris a la base de datos y se retorna una respuesta que corresponde al objeto "Response" que contiene los datos 
 
-vid  21 - program with gio
-vid 09 - coders free
+
 
 ---
 - [ ] summary  📅 2026-01-25

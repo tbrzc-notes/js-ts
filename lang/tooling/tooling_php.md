@@ -14,7 +14,7 @@ package-manager: composer
 runtime: > 8.x
 coding-style: php-cs-fixer
 linter: php-cs-fixer, Psalm
-debugger: Xdebug
+debugger: Xdebug -> https://xdebug.org/wizard
 typos: PHPdoc
 formatter: php-cs-fixer
 IDE-integrations:
@@ -22,7 +22,6 @@ IDE-integrations:
 - php-debug
 - php-cs-fixer
 - php profiler -> DEVSENSE
-- Psalm
 - PHP -> DEVSENSE
 
 
