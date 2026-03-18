@@ -10,6 +10,11 @@ el enrutador se encarga de mostrar mediante la url una vista en particular, esto
 # controlador
 mediante el controlador se crean las funciones que una vez llamadas muestran la vista, antes de este se podria manejar un middleware para cosas como la authenticacion, se ejecutan las queris a la base de datos y se retorna una respuesta que corresponde al objeto "Response" que contiene los datos 
 
+cookies 
+cache en memoria
+sessions 
+custom headers -> Header custom	$_SERVER['HTTP_X_USER_ID']
+jwt
 
 
 ---
